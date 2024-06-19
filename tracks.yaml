@@ -1,4 +1,4 @@
-release_repo_url: https://github.com/ros2-gbp/moveit_msgs-release.git
+release_repo_url: git@github.com:revyos-ros/moveit_msgs-release
 tracks:
   foxy:
     actions:
